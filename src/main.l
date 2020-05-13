@@ -1,7 +1,6 @@
 %{
 #include <stdio.h>
 
-int aux = 0;
 %}
 
 FINAL ([0-9]*[A-Z]*[a-z]*)+ 
